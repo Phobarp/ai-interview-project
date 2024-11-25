@@ -1,4 +1,4 @@
-# Run command (For Tariq to copy-paste): /Users/tariqmahamid/Library/Python/3.9/bin/uvicorn app:app --reload --host 0.0.0.0 --port 8000
+# Run command (For Tariq to copy-paste): /Users/tariqmahamid/Library/Python/3.9/bin/uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
