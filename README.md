@@ -47,6 +47,9 @@ Start the server using Uvicorn:
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
+## Short Explination Video
+https://drive.google.com/file/d/1GQ71QR_wppVVxYADUgxASl1V8T53IxlN/view?usp=share_link
+
 ---
 
 ## Frontend Setup
